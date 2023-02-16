@@ -1,0 +1,106 @@
+.titulo {
+  height: 82px;
+  width: 314px;
+  left: -215px;
+  top: 200px;
+  color: #4985df;
+  font-family: "Times New Roman", Times, serif;
+  font-style: Regular;
+}
+
+#titulo2 {
+  color: #d0d33d;
+  margin-left: 300px;
+}
+
+#nombres {
+  display: flex;
+  text-align: right;
+}
+.info-label {
+  color: #f1169a;
+}
+
+.button {
+  background-color: #4985df;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 100px;
+}
+
+.imagen {
+  transform: rotate(90deg);
+  margin-left: -190px;
+  margin-top: 140px;
+}
+.imagen1-1 {
+  transform: rotate(90deg);
+  margin-left: -490px;
+  margin-top: -120px;
+}
+.imagen1-2 {
+  transform: rotate(90deg);
+  margin-left: -320px;
+  margin-top: -80px;
+}
+.imagen1-3 {
+  transform: rotate(90deg);
+  margin-left: -400px;
+  margin-top: -60px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#nombre {
+  color: #f1169a;
+  font-size: xx-large;
+}
+#preguntas {
+  font-size: xx-large;
+}
+/* #usuario {
+  margin-left: 500px;
+} */
+.info-label {
+  margin-left: 100px;
+  width: 300px;
+  height: 30px;
+}
+#next {
+  margin-top: 190px;
+  margin-left: 400px;
+}
+#cuadro {
+  margin-left: 300px;
+}
+#imagen10 {
+  margin-left: 550px;
+  margin-top: -200px;
+}
+#imagen11 {
+  margin-left: 320px;
+  margin-top: -200px;
+}
+#imagen12 {
+  margin-left: 100px;
+  margin-top: -170px;
+  width: 300px;
+  height: 300px;
+}
+#inicio {
+  margin-left: -70px;
+  margin-top: 130px;
+}
+.puntos {
+  font-size: xx-large;
+}
